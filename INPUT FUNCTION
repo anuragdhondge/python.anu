@@ -1,0 +1,11 @@
+#first input code
+num1 = int(input())
+num2 = int(input())
+print(num1 * num2)
+
+#second input code
+numOfLetters = len("Anurag")
+print(numOfLetters)
+
+#third input code
+print(len(input()))
