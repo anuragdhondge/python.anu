@@ -1,4 +1,4 @@
-#first input code to multiply two numbers by input method
+#First input code to multiply two numbers by input method
 num1 = int(input())
 num2 = int(input())
 print(num1 * num2)
